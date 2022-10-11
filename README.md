@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravbhatt01
-- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning BackEnd Development
+- 👀 I’m interested in Data Science, Data Mining
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me on +918171369192
 
